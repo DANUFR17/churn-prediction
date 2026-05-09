@@ -28,7 +28,8 @@ telco-churn-project/
 │   └── processed/            # data hasil cleaning
 │
 ├── notebooks/
-│   └── 01-eda.ipynb
+│   ├── 01-eda.ipynb
+│   └── 02-modeling-shap.ipynb
 │
 ├── plots/                    # semua visualisasi auto-save ke sini
 │
