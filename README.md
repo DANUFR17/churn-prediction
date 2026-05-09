@@ -94,7 +94,7 @@ uvicorn api:app --reload --port 8000
 
 ### 5. Launch Streamlit app
 ```bash
-streamlit run streamlit_app.py
+python -m streamlit run streamlit_app.py
 ```
 
 ---
