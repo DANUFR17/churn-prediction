@@ -131,4 +131,4 @@ python -m streamlit run streamlit_app.py
 ## 👤 Author
 
 **Muhammad Danu Firjatullah Rachman**  
-[GitHub](https://github.com/DANUFR17) · [LinkedIn]((https://www.linkedin.com/in/muhammad-danu-firjatullah-rachman-740102261/))
+[GitHub](https://github.com/DANUFR17) · [LinkedIn](https://linkedin.com/in/muhammad-danu-firjatullah-rachman-740102261/)
